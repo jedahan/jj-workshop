@@ -1,10 +1,5 @@
-Follow the instructions in the Google Slide
+Follow the instructions in the presentation
 
-Make some changes to this file.
-
-Maybe fill this out?
-
-* The best superhero is ___________
 * The best operating system is linux probably
 * The best text editor is helix or ed
 * The best kind of phone is a dumb phone
